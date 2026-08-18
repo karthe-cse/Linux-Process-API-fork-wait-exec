@@ -120,7 +120,7 @@ int main()
 
 
 
-##OUTPUT
+##OUTPUT 
 
 <img width="889" height="233" alt="Screenshot 2026-08-18 185927" src="https://github.com/user-attachments/assets/7e0b03dc-ed65-4604-8067-ccf097d63a50" />
 
